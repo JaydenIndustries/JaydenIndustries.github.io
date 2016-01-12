@@ -1,13 +1,13 @@
 html {
-	background-color: #706B25;
+	background-color: #70A30A;
 }
 
 p {
-	color: #fff;
+	color: #5A7800;
 }
 
 h1 {
-	color: #004400;
+	color: #8CC61A;
 	text-align: center;
 }
 
@@ -21,7 +21,7 @@ nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: #004d00;
+	background-color: #43600;
 	width: 130px;
 	position: fixed;
 	top: 0;
@@ -42,7 +42,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-	background-color: #ac7339;
+	background-color: #A4D443;
 	color: #fff
 }
 
@@ -74,7 +74,7 @@ nav ul li a:hover {
 		list-style-type: none;
 		margin: 0;
 		padding: 0;
-		background-color: #004d00;
+		background-color: #43600;
 		width: 100%;
 		position: fixed;
 		top: 0;
