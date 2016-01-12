@@ -7,7 +7,7 @@ p {
 }
 
 h1 {
-	color: #8CC61A;
+	color: #0B1A78;
 	text-align: center;
 }
 
@@ -21,7 +21,7 @@ nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: #43600;
+	background-color: #F7729F;
 	width: 130px;
 	position: fixed;
 	top: 0;
@@ -42,7 +42,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-	background-color: #A4D443;
+	background-color: #563628;
 	color: #fff
 }
 
@@ -74,7 +74,7 @@ nav ul li a:hover {
 		list-style-type: none;
 		margin: 0;
 		padding: 0;
-		background-color: #43600;
+		background-color: #F7729F;
 		width: 100%;
 		position: fixed;
 		top: 0;
